@@ -67,7 +67,7 @@ Git, GitHub, VS Code
 
 ## 2026 Goals
 
-- Solve 300+ LeetCode problems  
+- Solve 200+ LeetCode problems  
 - Build 3 strong Data Science projects  
 - Master Python for ML  
 - Secure a high-paying tech role  
@@ -77,4 +77,4 @@ Git, GitHub, VS Code
 ## Contact
 
 Email: mayankmalviya440@gmail.com  
-LinkedIn: (Add your link)
+LinkedIn: 
