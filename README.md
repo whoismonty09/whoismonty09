@@ -1,67 +1,63 @@
-<h1 align="center">Hi 👋, I'm Mayank Malviya</h1>
-<h3 align="center">BTech E&TC | Aspiring Data Scientist | Problem Solver</h3>
-
+<h1 align="center">Mayank Malviya</h1>
 <p align="center">
-  <a href="https://github.com/whoismonty09">
-    <img src="https://komarev.com/ghpvc/?username=whoismonty09&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+BTech Electronics & Telecommunications | Aspiring Data Scientist | Software Developer
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-- 🎓 BTech in Electronics & Telecommunications  
-- 💻 Strong foundation in **C++, Java, Python & DSA**  
-- 🧠 Practicing LeetCode to master problem-solving  
-- 📊 Transitioning towards **Data Science & AI**  
-- 🏢 Completed 6-month Internship at *Soft Scribble*  
+I am a BTech student with a strong foundation in Data Structures, Algorithms, and backend development.  
+Currently focused on strengthening problem-solving skills and transitioning into Data Science and AI.
 
----
-
-## 💼 Internship Experience
-
-### 🔹 Bulk Messaging System
-- Built API-based bulk messaging platform  
-- Optimized cost-efficient delivery  
-- Improved system performance & reliability  
+I enjoy building efficient systems and writing clean, maintainable code.
 
 ---
 
-## 🛠 Tech Stack
+## Skills
 
-### 💻 Languages
-`C` `C++` `Java` `Python` `JavaScript`
+**Languages**  
+C, C++, Java, Python, JavaScript  
 
-### 🌐 Web
-`HTML` `CSS` `React` `Node.js`
+**Web Development**  
+HTML, CSS, React, Node.js  
 
-### 🗄 Databases
-`MySQL` `MongoDB`
+**Databases**  
+MySQL, MongoDB  
 
-### ⚙ Tools
-`Git` `GitHub` `VS Code`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whoismonty09&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoismonty09&layout=compact&theme=tokyonight" />
-</p>
+**Tools**  
+Git, GitHub, VS Code  
 
 ---
 
-## 📈 Currently Learning
+## Experience
 
-- Data Structures & Algorithms  
+**Software Development Intern – Soft Scribble (6 Months)**  
+- Developed an API-based Bulk Messaging System  
+- Improved delivery efficiency and reduced messaging cost  
+- Worked on backend integration and system optimization  
+
+---
+
+## Projects
+
+**Bulk Messaging System**  
+API-driven platform for cost-efficient large-scale messaging.  
+Focus: backend performance and reliability.
+
+(More projects coming soon)
+
+---
+
+## Currently Learning
+
+- Advanced Data Structures & Algorithms  
 - Python for Data Science  
-- Machine Learning  
+- Machine Learning Fundamentals  
 
 ---
 
-## 🤝 Connect With Me
+## Contact
 
-- 📧 Email: mayankmalviya440@gmail.com  
-- 💼 LinkedIn: (Add your link)
+Email: mayankmalviya440@gmail.com  
+LinkedIn: (Add your link)
