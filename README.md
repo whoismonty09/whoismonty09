@@ -56,15 +56,6 @@ Git, GitHub, VS Code
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whoismonty09&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoismonty09&layout=compact&theme=default&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 2026 Goals
 
 - Solve 200+ LeetCode problems  
