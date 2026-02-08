@@ -1,26 +1,35 @@
 <h1 align="center">Mayank Malviya</h1>
 <p align="center">
-BTech Electronics & Telecommunications | Aspiring Data Scientist | Software Developer
+BTech Electronics & Telecommunications  
+Aspiring Data Scientist | Strong in Data Structures & Algorithms
 </p>
 
 ---
 
-## About
+## About Me
 
-I am a BTech student with a strong foundation in Data Structures, Algorithms, and backend development.  
-Currently focused on strengthening problem-solving skills and transitioning into Data Science and AI.
+I am a developer with a strong interest in Data Science and Machine Learning, backed by solid problem-solving skills in Data Structures and Algorithms.
 
-I enjoy building efficient systems and writing clean, maintainable code.
+Currently focused on:
+- Competitive programming (LeetCode)
+- Python for Data Science
+- Machine Learning fundamentals
+- Writing clean and efficient code
+
+I aim to combine analytical thinking with real-world data-driven solutions.
 
 ---
 
-## Skills
+## Technical Skills
 
-**Languages**  
-C, C++, Java, Python, JavaScript  
+**Programming Languages**  
+C, C++, Java, Python  
 
-**Web Development**  
-HTML, CSS, React, Node.js  
+**Data Science Stack**  
+NumPy, Pandas, Matplotlib (learning)  
+
+**Web & Backend (Foundational)**  
+HTML, CSS, JavaScript, React  
 
 **Databases**  
 MySQL, MongoDB  
@@ -30,30 +39,38 @@ Git, GitHub, VS Code
 
 ---
 
+## Competitive Programming
+
+- Practicing LeetCode regularly  
+- Focused on Arrays, Strings, Recursion, and Dynamic Programming  
+- Strengthening algorithmic thinking and time complexity analysis  
+
+---
+
 ## Experience
 
 **Software Development Intern – Soft Scribble (6 Months)**  
-- Developed an API-based Bulk Messaging System  
-- Improved delivery efficiency and reduced messaging cost  
-- Worked on backend integration and system optimization  
+- Developed API-based Bulk Messaging System  
+- Improved delivery efficiency and backend reliability  
+- Worked on performance optimization  
 
 ---
 
-## Projects
+## GitHub Stats
 
-**Bulk Messaging System**  
-API-driven platform for cost-efficient large-scale messaging.  
-Focus: backend performance and reliability.
-
-(More projects coming soon)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=whoismonty09&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoismonty09&layout=compact&theme=default&hide_border=true" height="165"/>
+</p>
 
 ---
 
-## Currently Learning
+## 2026 Goals
 
-- Advanced Data Structures & Algorithms  
-- Python for Data Science  
-- Machine Learning Fundamentals  
+- Solve 300+ LeetCode problems  
+- Build 3 strong Data Science projects  
+- Master Python for ML  
+- Secure a high-paying tech role  
 
 ---
 
