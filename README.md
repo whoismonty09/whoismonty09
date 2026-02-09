@@ -68,4 +68,4 @@ Git, GitHub, VS Code
 ## Contact
 
 Email: mayankmalviya440@gmail.com  
-LinkedIn: 
+LinkedIn: www.linkedin.com/in/mayank-m-a949b3268
