@@ -69,3 +69,8 @@ Git, GitHub, VS Code
 
 Email: mayankmalviya440@gmail.com  
 LinkedIn: www.linkedin.com/in/mayank-m-a949b3268
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=whoismonty09&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=whoismonty09&theme=calm_pink&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=whoismonty09&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
